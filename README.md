@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## Deployment
+
+This application is deployed using GitHub Pages. You can access it [here](https://pithani-rakesh.github.io/pithani-rakesh/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
